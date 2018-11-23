@@ -1,3 +1,26 @@
+
+
+
+
+
+
+Guillaume Isabelle X Yourls Branch
+-----
+@stcgoal An Optimal Access to Resource from URI with 🔗 Your Own URL Shortener 
+@UriR https://app.guillaumeisabelle.com/yourls
+* @a Deploy and confirm it works
+* @a Observe new feature in contrast to .71
+* @CR Observed that there might be jQuery and more dynamics included in this release
+
+
+
+
+
+
+
+
+
+
 [![yourls](images/yourls-logo.png)](https://yourls.org) [![Build Status](https://api.travis-ci.org/YOURLS/YOURLS.svg?branch=master)](https://travis-ci.org/YOURLS/YOURLS) [![OpenCollective](https://opencollective.com/yourls/backers/badge.svg)](#backers) 
 [![OpenCollective](https://opencollective.com/yourls/sponsors/badge.svg)](#sponsors) ![&hearts;](https://img.shields.io/badge/made%20with-%E2%9D%A4-ff69b4.svg)
 ========
